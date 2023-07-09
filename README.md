@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-    [![Hits](https://hits.sh/github.com/rena0dayoungKang.svg?view=today-total&style=for-the-badge&color=beb5b5&labelColor=b39a9a)](https://hits.sh/github.com/rena0dayoungKang/)
+    ![Hits](https://hits.sh/github.com/rena0dayoungKang.svg?view=today-total&style=for-the-badge&color=beb5b5&labelColor=b39a9a)    (https://hits.sh/github.com/rena0dayoungKang/)
 </div>
 
 - 👋 Hi, I’m @rena0dayoungKang         <br>
