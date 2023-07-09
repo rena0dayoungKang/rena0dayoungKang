@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @rena0dayoungKang         <br>
 - 👀 I’m interested in JAVA, Clean Code<br>
-- 🌱 I’m currently learning Front-end  <br>
+- 🌱 I’m currently learning JAVA-spring  <br>
 - 💞️ I’m looking to collaborate on ANYONE~ <br>
 - 📫 How to reach me dayoungrenakang@gmail.com <br>
 
