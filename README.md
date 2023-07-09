@@ -3,9 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=yum-yum_CODING!&color=random)  
 </div>
 
-<div align="left">
-    ![Hits](https://hits.sh/github.com/rena0dayoungKang.svg?view=today-total&style=for-the-badge&color=beb5b5&labelColor=b39a9a)    (https://hits.sh/github.com/rena0dayoungKang/)
-</div>
+<a href="https://hits.sh/github.com/rena0dayoungKang/"><img alt="Hits" src="https://hits.sh/github.com/rena0dayoungKang.svg?view=today-total&style=for-the-badge&color=beb5b5&labelColor=b39a9a"/></a>
 
 - 👋 Hi, I’m @rena0dayoungKang         <br>
 - 👀 I’m interested in JAVA, Clean Code<br>
