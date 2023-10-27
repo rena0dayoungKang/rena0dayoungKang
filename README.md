@@ -43,8 +43,8 @@
   <!--<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>-->
   <!--<img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>-->
 </div>
-
-	[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang)
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
