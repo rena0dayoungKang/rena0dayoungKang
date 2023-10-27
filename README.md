@@ -1,14 +1,11 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=yum-yum_CODING!&color=random)  
+<div align=center>
+	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Github!&fontSize=80" />	
 </div>
-
-<a href="https://hits.sh/github.com/rena0dayoungKang/"><img alt="Hits" src="https://hits.sh/github.com/rena0dayoungKang.svg?view=today-total&style=for-the-badge&color=random&labelColor=random"/></a>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<p>🍩 Platforms & Languages 🍩</p>
+	<p> 💕 Languages 💕 </p>
 </div>
 <div align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -29,6 +26,7 @@
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=Intellij IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Tomcat&logoColor=white"/>
   <br>
@@ -40,24 +38,28 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-  <!--<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>-->
-  <!--<img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
 </div>
-
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
-</div>
-<div align = center>
-- 👋 Hi, I’m @rena0dayoungKang         <br>
-- 👀 I’m interested in JAVA, Clean Code<br>
-- 🌱 I’m currently learning JAVA-spring  <br>
-- 💞️ I’m looking to collaborate on ANYONE~ <br>
-- 📫 How to reach me dayoungrenakang@gmail.com <br>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
 </div>
 <div align=center>
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
 
-<!---
-rena0dayoungKang/rena0dayoungKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**hbbine/hbbine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👋 Hi, I’m @rena0dayoungKang         <br>
+- 👀 I’m interested in JAVA, Clean Code<br>
+- 🌱 I’m currently learning JAVA-spring  <br>
+- 💞️ I’m looking to collaborate on ANYONE~ <br>
+- 📫 How to reach me dayoungrenakang@gmail.com <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&show_icons=true">
+-->
+
