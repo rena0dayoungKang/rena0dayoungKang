@@ -62,5 +62,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ANYONE~ <br>
 - 📫 How to reach me dayoungrenakang@gmail.com <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)
+
 <img src="https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&show_icons=true">
 -->
