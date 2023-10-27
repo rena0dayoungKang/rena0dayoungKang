@@ -47,7 +47,7 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
 </div>
-<div align=center>
+<div>
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
 
