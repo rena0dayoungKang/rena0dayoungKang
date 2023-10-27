@@ -43,16 +43,9 @@
   <!--<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>-->
   <!--<img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>-->
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang)
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
-</div>
-<div align=center>
-	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
+</div>
 <div align = center>
 - 👋 Hi, I’m @rena0dayoungKang         <br>
 - 👀 I’m interested in JAVA, Clean Code<br>
@@ -60,6 +53,10 @@
 - 💞️ I’m looking to collaborate on ANYONE~ <br>
 - 📫 How to reach me dayoungrenakang@gmail.com <br>
 </div>
+<div align=center>
+	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
+</div>
+
 <!---
 rena0dayoungKang/rena0dayoungKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
