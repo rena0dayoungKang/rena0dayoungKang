@@ -1,4 +1,4 @@
-<div align=center>
+<div>
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Github!&fontSize=80" />	
 </div>
 
@@ -52,7 +52,7 @@
 </div>
 
 <!--
-**hbbine/hbbine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rena0dayoungKang/rena0dayoungKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
