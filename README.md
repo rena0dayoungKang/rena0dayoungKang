@@ -51,12 +51,13 @@
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
 
+<div align = center>
 - 👋 Hi, I’m @rena0dayoungKang         <br>
 - 👀 I’m interested in JAVA, Clean Code<br>
 - 🌱 I’m currently learning JAVA-spring  <br>
 - 💞️ I’m looking to collaborate on ANYONE~ <br>
 - 📫 How to reach me dayoungrenakang@gmail.com <br>
-
+</div>
 <!---
 rena0dayoungKang/rena0dayoungKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
