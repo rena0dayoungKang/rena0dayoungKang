@@ -44,7 +44,7 @@
   <!--<img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>-->
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
 </div>
 <div align = center>
 - 👋 Hi, I’m @rena0dayoungKang         <br>
