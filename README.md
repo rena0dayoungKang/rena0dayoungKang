@@ -47,10 +47,11 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact"><br><br>
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)
 <div>
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)
+
 
 <!--
 **rena0dayoungKang/rena0dayoungKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
