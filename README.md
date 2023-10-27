@@ -2,8 +2,8 @@
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=80" />	
 </div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)<br><br>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
