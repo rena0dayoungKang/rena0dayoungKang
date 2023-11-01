@@ -9,8 +9,7 @@
 	<picture><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" /></picture>
 	<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /></picture>
 </div>
-<div align="center">
-	
+<div align="center">	
 	<picture><img src="https://velog-readme-stats.vercel.app/api?name=rena" /></picture>
 </div>
 
