@@ -2,11 +2,17 @@
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC&height=200&section=header&text=Rena%20Github%20&fontSize=50" />	
 </div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang)](https://solved.ac/dayoungrenakang/)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rena0dayoungKang&theme=tokyonight-duo&border_radius=3.8&locale=ko)](https://git.io/streak-stats) <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rena)]([벨로그링크](https://velog.io/@rena))<br>
+<div align="center">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> <br>
+</div>
+<div align="center">
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /> 
+</div>
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=rena0dayoungKang&theme=tokyonight-duo&border_radius=3.8&locale=ko" /><br>
+	<img src="https://velog-readme-stats.vercel.app/api?name=rena" />
+</div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
