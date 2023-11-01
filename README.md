@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC&height=200&section=header&text=Rena%20Github%20&fontSize=50" />	
 </div>
 
@@ -56,7 +56,7 @@
 <div>
 	
 </div>
-<div>
+<div align="center">
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC&height=200&section=footer&fontSize=80" />	
 </div>
 
