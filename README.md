@@ -50,7 +50,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <a href="https://velog.io/@rena"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
 </div>
 <div>
