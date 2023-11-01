@@ -10,7 +10,7 @@
 	<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /></picture>
 </div>
 <div align="center">
-	<picture><img src="https://streak-stats.demolab.com?user=rena0dayoungKang&theme=tokyonight-duo&border_radius=3.8&locale=ko" /></picture><br>
+	
 	<picture><img src="https://velog-readme-stats.vercel.app/api?name=rena" /></picture>
 </div>
 
