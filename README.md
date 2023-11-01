@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> <br>
+	<picture><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></picture> <br>
 </div>
 <div align="center">
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /> 
+	<picture><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" /></picture>
+	<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /></picture>
 </div>
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=rena0dayoungKang&theme=tokyonight-duo&border_radius=3.8&locale=ko" /><br>
-	<img src="https://velog-readme-stats.vercel.app/api?name=rena" />
+	<picture><img src="https://streak-stats.demolab.com?user=rena0dayoungKang&theme=tokyonight-duo&border_radius=3.8&locale=ko" /></picture><br>
+	<picture><img src="https://velog-readme-stats.vercel.app/api?name=rena" /></picture>
 </div>
 
 <div align=center>
