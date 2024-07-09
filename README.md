@@ -1,7 +1,3 @@
-<div align="center"> 
-	 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC&height=200&section=header&text=Rena%20Github%20&fontSize=50" />	
-</div>
-
 <div align="center">
 	<picture><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></picture> <br>
 </div>
@@ -55,11 +51,6 @@
 </div>
 <div>
 	
-</div>
-<div align="center">
-	 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC&height=200&section=footer&fontSize=80" />	
-</div>
-
 
 <!--
 **rena0dayoungKang/rena0dayoungKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
