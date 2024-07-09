@@ -11,7 +11,7 @@
 </div>
 -->
 
-<div align=center>
+<div align=right>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
 	<p> 💕 Stacks 💕 </p>
