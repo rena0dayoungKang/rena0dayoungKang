@@ -2,8 +2,8 @@
 	<picture><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frena0dayoungKang&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></picture> <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&langs_count=10&layout=compact&theme=dark)](https://github.com/rena0dayoungKang/rena0dayoungKang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&theme=swift&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&layout=compact&theme=swift&langs_count=8)](https://github.com/rena0dayoungKang/rena0dayoungKang)
 <!--
 <div align="center">
 	<picture><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" /></picture> <br>
