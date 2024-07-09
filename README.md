@@ -4,11 +4,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang&langs_count=10&layout=compact&theme=dark)](https://github.com/rena0dayoungKang/rena0dayoungKang)
-
+<!--
 <div align="center">
 	<picture><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" /></picture> <br>
 	<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /></picture>
 </div>
+-->
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
