@@ -6,9 +6,6 @@
 	<picture><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoungrenakang" /></picture> <br>
 	<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena0dayoungKang" /></picture>
 </div>
-<div align="center">	
-	<picture><img src="https://velog-readme-stats.vercel.app/api?name=rena" /></picture>
-</div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -46,9 +43,12 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
+<div align="center">	
+	<picture><img src="https://velog-readme-stats.vercel.app/api?name=rena" /></picture>
+</div>
 <div align=center>
   <a href="https://velog.io/@rena"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>-->
 </div>
 <div>
 	
@@ -58,10 +58,10 @@
 
 Here are some ideas to get you started:
 
-- 👋 Hi, I’m @rena0dayoungKang         <br>
-- 👀 I’m interested in JAVA, Clean Code<br>
-- 🌱 I’m currently learning JAVA-spring  <br>
-- 💞️ I’m looking to collaborate on ANYONE~ <br>
+- 👋 Hi, I’m Rena Kang    <br>
+- 👀 <br>
+- 🌱 <br>
+- 💞️ <br>
 - 📫 How to reach me dayoungrenakang@gmail.com <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rena0dayoungKang&show_icons=true">
